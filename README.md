@@ -1,4 +1,4 @@
-# updated-cozy-portfolio
+# Updated Cozy Portfolio (October 2021)
 
 ![picture](/readme-shot.png)
 
