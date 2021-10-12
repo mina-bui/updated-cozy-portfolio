@@ -2,7 +2,7 @@
 
 ![picture](/readme-shot.png)
 
-A quick little Sunday project featuring a bit of Bootstrap, JavaScript, and a lot of 70's cozy vibes. Mainly to revamp my old portfolio site, but will be expanded later to include project detail pages and more stylistic changes.
+A quick little Sunday project featuring a bit of Bootstrap, JavaScript, and a lot of 70's cozy vibes. There was a focus on responsiveness and accessibility for this project. Mainly to revamp my old portfolio site and reflect some new career details, but will be expanded later to include project detail pages, more stylistic changes, and increased accessibility. Fingers crossed!
 
 * [Link to deployed version](https://minabui.com/)
 
