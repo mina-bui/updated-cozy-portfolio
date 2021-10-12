@@ -17,5 +17,6 @@ git clone https://github.com/mina-bui/updated-cozy-portfolio/.git
 * [Javascript](https://www.javascript.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [HTML](https://html.spec.whatwg.org/)
+* [CSS](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
 * [Google Fonts](https://fonts.google.com/)
 * [Favicomatic](https://favicomatic.com/)
