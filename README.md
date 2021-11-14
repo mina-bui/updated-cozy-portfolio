@@ -4,7 +4,13 @@
 
 A quick little Sunday project featuring a bit of Bootstrap, JavaScript, and a lot of 70's cozy vibes. There was a focus on responsiveness and accessibility for this project. Mainly to revamp my old portfolio site and reflect some new career details, but will be expanded later to include project detail pages, more stylistic changes, and increased accessibility. Fingers crossed!
 
-* [Link to deployed version](https://minabui.com/)
+---
+
+![picture](http://minabui.com/wp-content/uploads/2021/11/portfolio-website-nov-13.png)
+
+**Edit, Nov. 13, 2021**: This was overruled and replaced with a custom WordPress template made with Elementor. 
+
+Check out my [current website](https://minabui.com/) to check it out!
 
 ## How to Load the App
 
